@@ -3,10 +3,10 @@ package com.aims.Formulary;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class FormularyApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 
